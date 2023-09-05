@@ -1,0 +1,6 @@
+1.	First you have to download IntelliJ IDEA from this website.		
+	https://www.jetbrains.com/idea/download/#section=windows
+2.	Install IntelliJ IDEA Community not the ultimate one.
+3.	Open IntelliJ IDEA and then open your project file there by using browse option.
+4.	Project will be open on IntelliJ IDEA.
+5.      Go to Student class and run the project.
